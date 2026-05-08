@@ -24,8 +24,8 @@ This project demonstrates:
 
 ## ⚡ Redis Cache Integration
 
--Cache-aside pattern
--Fast redirect lookup
+- Cache-aside pattern
+- Fast redirect lookup
 - Reduced DB load
 
 ## 🔄 Distributed Rate Limiting
@@ -46,7 +46,7 @@ This project demonstrates:
 
 ## 🌐 301 / 302 Redirect Support
 
--Permanent redirects
+- Permanent redirects
 - Temporary redirects
 
 ## 🧩 Service-to-Service Communication
